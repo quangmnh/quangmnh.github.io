@@ -54,6 +54,7 @@ User-agent: Pinterest
 User-agent: Plukkie
 User-agent: Qwantify
 User-agent: Rambler
+User-agent: Seobility
 User-agent: SeznamBot
 User-agent: Sosospider
 User-agent: Slurp
