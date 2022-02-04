@@ -34,6 +34,7 @@ User-agent: Exploratodo
 User-agent: Facebot
 User-agent: Feedly
 User-agent: Findxbot
+User-agent: googlebot
 User-agent: Googlebot
 User-agent: Googlebot-Image
 User-agent: Googlebot-Mobile
@@ -48,6 +49,7 @@ User-agent: Mail.Ru
 User-agent: Mediapartners-Google
 User-agent: MojeekBot
 User-agent: msnbot
+User-agent: MSN-Bot
 User-agent: msnbot-media
 User-agent: OrangeBot
 User-agent: Pinterest
